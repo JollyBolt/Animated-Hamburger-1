@@ -13,14 +13,6 @@ A simple animated hamburger menu. To use this, just copy the code from ```Hambur
 
 Try it yourself [here](https://animated-hamburger-1.netlify.app/).
 
-<!-- ## Features
-
-- Made using React and Tailwind CSS.
-- Completely responsive.
-- The contact form is integrated with smtp.js. -->
-
-
-
 ## Installation
 
 Install dependencies with npm
@@ -33,6 +25,3 @@ Install dependencies with npm
 ## Tech Stack
 
 **Client:** React,  Tailwind CSS
-
-<!-- **Server:** Node, Express -->
-
