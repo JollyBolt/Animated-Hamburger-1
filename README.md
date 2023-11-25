@@ -5,7 +5,15 @@
 
 <h1 align=center><b>Animated Hamburger 1</b></h1>
 
-![Screen Recording 2023-11-25 at 11.17.18 PM](https://github.com/JollyBolt/EdiText/assets/68071708/c8bc5418-336b-4207-b5d8-2f67d54af194)
+<p align="center">
+  <img src="https://github.com/JollyBolt/Animated-Hamburger-1/assets/68071708/659e75ac-8f63-485b-8a92-b77df2625e5f" alt="animated" />
+</p>
+
+
+
+
+
+
 
 <p align="center"><img  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"  />
 <img  src="https://img.shields.io/badge/tailwindcss-%238511FA.svg?style=for-the-badge&logo=tailwind&logoColor=white"  /></p>
